@@ -9,7 +9,7 @@ App(
         "dialogs",
     ],
     provides=["mtg_start"],
-    icon="A_NFC_14",
+    icon="A_MTG_14",
     stack_size=5 * 1024,
     order=90,
 )
